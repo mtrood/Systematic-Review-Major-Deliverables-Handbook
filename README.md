@@ -4,19 +4,6 @@
 
 
 
-* Version:  1.11
-* Date created: 20/7/2023
-* Last updated: 16/05/2025
-* Linked materials: accompanying ‘Sample materials’ folder
-* Author/Owner: Dr Michael Trood (mtrood@swin.edu.au)
-
-Suggested citation: 
-Trood, M. D. (2023). Systematic review major deliverable handbook. Centre for Forensic Behavioural Science, Swinburne University of Technology. https://github.com/mtrood/Systematic-Review-Major-Deliverables-Handbook.git
-
-Major revisions/ date revised: NA
-Outstanding tasks: 
-* Stage 4 to Section 7.2
-* Screengrab walkthrough of screening process
 ---
 
 ## Table of Contents
@@ -31,3 +18,19 @@ Outstanding tasks:
 8. [Meta-analysis](chapters/08-meta-analysis.md)
 9. [Reporting](chapters/09-reporting.md)
 10. [References](chapters/10-references.md)
+
+---
+Suggested citation: 
+Trood, M. D. (2023). Systematic review major deliverable handbook. Centre for Forensic Behavioural Science, Swinburne University of Technology. https://github.com/mtrood/Systematic-Review-Major-Deliverables-Handbook.git
+
+* Version:  1.11
+* Date created: 20/7/2023
+* Last updated: 16/05/2025
+* Linked materials: accompanying ‘Sample materials’ folder
+* Author/Owner: Dr Michael Trood (mtrood@swin.edu.au)
+
+
+Major revisions/ date revised: NA
+Outstanding tasks: 
+* Stage 4 to Section 7.2
+* Screengrab walkthrough of screening process
