@@ -22,9 +22,12 @@ Outstanding tasks:
 ## Table of Contents
 
 1. [Introduction](chapters/01-introduction.md)
-2. [Stage 1: Defining your review](chapters/02-defining-your-review.md)
-3. [Stage 2: Planning your search](chapters/03-planning-your-search.md)
-4. [Screening and Selection](chapters/04-screening.md)
-5. [Data Extraction](chapters/05-data-extraction.md)
-6. [Quality Assessment](chapters/06-quality-assessment.md)
-7. [Synthesis](chapters/07-synthesis.md)
+2. [Defining your review](chapters/02-defining-your-review.md)
+3. [Planning your search](chapters/03-planning-your-search.md)
+4. [Executing search](chapters/04-execute-search.md)
+5. [Screening](chapters/05-screening.md)
+6. [Extraction and Quality Assessment](chapters/06-extraction-qual-assessment.md)
+7. [Narrative review](chapters/07-narrative.md)
+8. [Meta-analysis](chapters/08-meta-analysis.md)
+9. [Reporting](chapters/09-reporting.md)
+10. [References](chapters/10-references.md)
