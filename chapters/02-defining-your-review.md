@@ -71,7 +71,7 @@ nav_order: 2
 
 **Figure 1: Cook et al.'s (2012) PICO vs SPIDER**
 
-![PICO vs SPIDER comparison diagram](../../assets/images/chapter2/pico-vs-spider.jpeg)
+![PICO vs SPIDER comparison diagram](/assets/images/chapter2/pico-vs-spider.jpeg)
 
 ---
 
