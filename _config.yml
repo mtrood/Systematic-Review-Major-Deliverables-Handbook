@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Systematic Review Major Deliverables Handbook
 description: Guide for conducting a systematic review in the social sciences. 
+baseurl: "/your-repo-name"
+url: "https://your-username.github.io"
