@@ -35,25 +35,28 @@ nav_order: 2
 
 ---
 
-- <u>**P — Population**</u>
+- **P — Population**
   - Things to bear in mind: if you have multiple populations, are the populations comparable in a synthesis?
   - Examples:
     - Mothers who have a child under 10 years old
     - Males who have spent 12+ months in gaol
     - Male and female sex offenders
 
-- <u>**I — Intervention**</u>
+- **I — Intervention**
   - Things to bear in mind: how uniform is the intervention?
   - Examples:
     - Depression during the first 10 years post-birth of child
     - Tool for assessing risk of reoffending post-incarceration release
-    - CBT interventions for sex offenders
+    - CBT interventions for sex offenders 
+  - Note: intervention can be replaced with an exposure.
+  - Example:
+    - Exposure to child maltreament.
 
-- <u>**C — Comparison**</u>
+- **C — Comparison**
   - Who are the comparison participants?
   - > <span style="background-color: #fff3cd; padding: 2px 5px; border-radius: 3px;">💡 **Pro-tip:** The ideal comparison groups are those that are *randomised* into the control group. Short of this, consider how (and whether) comparison participants are matched to treatment participants. The methods used for matching treatment and comparison participants greatly affects the comparability of the groups.</span>
 
-- <u>**O — Outcome**</u>
+- **O — Outcome**
   - Bear in mind: whether the outcomes you want to include take the same form (e.g., are they all continuous, count, or categorical data, and do they all intend to measure the same phenomenon?)
   - Examples:
     - Infanticide (yes/no)
