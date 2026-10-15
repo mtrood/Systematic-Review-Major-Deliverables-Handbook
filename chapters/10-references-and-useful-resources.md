@@ -1,5 +1,5 @@
 ---
-title: "Chapter 10: References and Useful Resources"
+title: "References and Useful Resources"
 nav_order: 10
 ---
 
