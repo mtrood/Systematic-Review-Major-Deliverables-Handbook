@@ -1,5 +1,5 @@
 ---
-title: "Chapter 6: Extraction and Quality Assessment (Chapter pending)"
+title: "5: Extraction and Quality Assessment (pending)"
 nav_order: 6
 ---
 
