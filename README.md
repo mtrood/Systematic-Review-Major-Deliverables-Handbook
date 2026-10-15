@@ -8,16 +8,16 @@
 
 ## Table of Contents
 
-1. [Introduction](chapters/01-introduction.md)
-2. [Defining your review](chapters/02-defining-your-review.md)
-3. [Planning your search](chapters/03-planning-your-search.md)
-4. [Executing search](chapters/04-execute-search.md)
-5. [Screening](chapters/05-screening.md)
-6. [Extraction and Quality Assessment](chapters/06-extraction-qual-assessment.md)
-7. [Narrative review](chapters/07-narrative.md)
-8. [Meta-analysis](chapters/08-meta-analysis.md)
-9. [Reporting](chapters/09-reporting.md)
-10. [References](chapters/10-references.md)
+1. [Introduction](chapters/01-introduction)
+2. [Defining your review](chapters/02-defining-your-review)
+3. [Planning your search](chapters/03-planning-your-search)
+4. [Executing search](chapters/04-execute-search)
+5. [Screening](chapters/05-screening)
+6. [Extraction and Quality Assessment](chapters/06-extraction-qual-assessment)
+7. [Narrative review](chapters/07-narrative)
+8. [Meta-analysis](chapters/08-meta-analysis)
+9. [Reporting](chapters/09-reporting)
+10. [References](chapters/10-references-and-useful-resources)
 
 ---
 **Particulars**
