@@ -29,7 +29,7 @@
 
 
 **Suggested citation:** 
-Trood, M. D. (2023). Systematic review major deliverable handbook. Centre for Forensic Behavioural Science, Swinburne University of Technology. https://github.com/mtrood/Systematic-Review-Major-Deliverables-Handbook.git
+Trood, M. D. (2023). Systematic review major deliverable handbook. Centre for Forensic Behavioural Science, Swinburne University of Technology. [https://github.com/mtrood/Systematic-Review-Major-Deliverables-Handbook.git](https://mtrood.github.io/Systematic-Review-Major-Deliverables-Handbook/)
 
 
 **Major revisions/ date revised:** NA
