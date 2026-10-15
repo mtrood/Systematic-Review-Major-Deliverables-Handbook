@@ -1,5 +1,6 @@
 ---
 title: "Chapter 1: Introduction"
+nav_order: 1
 ---
 
 ## Introduction
