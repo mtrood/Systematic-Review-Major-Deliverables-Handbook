@@ -1,4 +1,4 @@
 ---
-title: "Chapter 8: Meta-analysis (Chapter pending)"
+title: "7: Meta-analysis (pending)"
 nav_order: 8
 ---
