@@ -1,5 +1,5 @@
 ---
-title: "Chapter 3: Planning Your Search"
+title: "2: Planning Your Search"
 nav_order: 3
 ---
 
