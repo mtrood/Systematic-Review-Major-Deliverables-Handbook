@@ -1,5 +1,5 @@
 ---
-title: "Chapter 2: Defining Your Review"
+title: "1: Defining Your Review"
 nav_order: 2
 ---
 
