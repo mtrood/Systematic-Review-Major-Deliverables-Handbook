@@ -1,5 +1,5 @@
 ---
-title: "Chapter 4: Executing Your Search"
+title: "3: Executing Your Search"
 nav_order: 4
 ---
 
