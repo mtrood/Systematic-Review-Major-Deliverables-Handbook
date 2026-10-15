@@ -1,5 +1,4 @@
-theme: jekyll-theme-minimal
-title: Systematic Review Major Deliverables Handbook
-description: Guide for conducting a systematic review in the social sciences. 
-baseurl: "/your-repo-name"
-url: "https://your-username.github.io"
+title: "Systematic Review Handbook"
+remote_theme: just-the-docs/just-the-docs
+baseurl: "/Systematic-Review-Major-Deliverables-Handbook"
+url: "https://mtrood.github.io"
