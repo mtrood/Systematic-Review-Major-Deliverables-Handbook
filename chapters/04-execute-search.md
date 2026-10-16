@@ -26,7 +26,11 @@ nav_order: 4
 - If extracting references by hand (e.g., from a research repository or from Google Scholar), add a search tag to the notes section in your reference manager
   - E.g., in EndNote — if systematically extracting the references from each included study in a similar review, add a *tag* like the following into the notes field of each record extracted from that review:
 
-> <span style="background-color: #fff3cd; padding: 2px 5px; border-radius: 3px;">📝 **Figure 2: Record tag example** — add a unique tag (e.g., the source review's author and year) to the notes/research notes field of every record extracted from that source. This allows you to quickly search your reference manager library for all records extracted from that particular source.</span>
+> <span style="background-color: #fff3cd; padding: 2px 5px; border-radius: 3px;">📝 **Figure 2: Record tag example**.</span>
+<div style="border: 1px solid #cccccc; padding: 12px 16px; border-radius: 4px; background-color: #f9f9f9;">
+<strong>Figure 2 — Example record tag:</strong><br><br>
+Record_from_included_studies_Spencer, C., Mallory, A. B., Cafferky, B. M., Kimmes, J. G., Beck, A. R., & Stith, S. M. (2019). Mental Health Factors and Intimate Partner Violence Perpetration and Victimization: A Meta-Analysis. <em>Psychology of Violence</em>, <em>9</em>(1), 1–17. https://doi.org/10.1037/vio0000156
+</div>
 
 - This will allow you to quickly search the reference manager for references extracted from that particular source
 
