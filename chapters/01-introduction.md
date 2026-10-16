@@ -10,7 +10,7 @@ It is a work in progress, but at present there 3 chapters are available to guide
 ### 1. Defining your review
 ### 2. Planning your search
 ### 3. Executing your search
-Gradually, I'll add additional chapters providing advice on 
+Gradually, I'll add additional chapters providing advice on: 
 ### 4. Extraction and quality assessment 
 ### 5. Narrative synthesise
 ### 6. Meta-analysis
